@@ -1,6 +1,7 @@
 # AirBnB_Analytics
 
-The purpose of this project was to predict the prices of Airbnbs in Boston, along with it understand what features impact the price.
+The purpose of this project was to predict the prices of Airbnbs in Boston, along with it understand what features impact the price. <br>
+**Medium post :**  
 
 # Dataset 
 Dataset : http://insideairbnb.com/boston/ 
@@ -28,8 +29,9 @@ This prediction is approched as a regression problem. CatBoostRegressor proved t
 RMSE is selected as the evaluation metric for this problem.
 RMSE of our model = $41.25.
 
+<img src="https://github.com/Vaibhav3M/AirBnB_Analytics/blob/master/Analysis/Visualizations/rmse.png" height="300"/> 
 
 But our main goal was to extract important features and understand what impacts price.
 Feature importance parameters and visualizations were used for that purpose.
-You can read the medium post for details.
+
 
