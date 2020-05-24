@@ -1,7 +1,7 @@
 # AirBnB_Analytics
 
 The purpose of this project was to predict the prices of Airbnbs in Boston, along with it understand what features impact the price. <br>
-**Medium post :**  
+**Medium post :**  https://medium.com/@malhotra.vaibhav0304/this-article-will-make-bostons-airbnb-hosts-rethink-their-investment-strategy-449df1a63830?sk=b87082484f163cc82e8873144c37c363
 
 # Dataset 
 Dataset : http://insideairbnb.com/boston/ 
