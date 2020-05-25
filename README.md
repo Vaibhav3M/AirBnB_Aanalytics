@@ -1,7 +1,13 @@
 # AirBnB_Analytics
 
 The purpose of this project was to predict the prices of Airbnbs in Boston, along with it understand what features impact the price. <br>
-**Medium post :**  https://medium.com/@malhotra.vaibhav0304/this-article-will-make-bostons-airbnb-hosts-rethink-their-investment-strategy-449df1a63830?sk=b87082484f163cc82e8873144c37c363
+
+Throughout this project, I will be focusing on the following questions:
+
+- Is it possible to accurately predict the most attractive price of your Airbnb?
+- What services will actually help you raise the price?
+- What are the most favored neighborhoods?
+
 
 # Dataset 
 Dataset : http://insideairbnb.com/boston/ 
@@ -39,6 +45,17 @@ Feature importance parameters and visualizations were used for that purpose.
 SHAP values show how much each predictor contributes, either positively or negatively, to the price variable. This is like the variable importance plot but it is able to show the positive or negative relationship for each variable with the price.
 
 <img src="https://github.com/Vaibhav3M/AirBnB_Analytics/blob/master/Analysis/Visualizations/SHAP.png" height="500"/> 
+<br>
+
+**Conclusion:**
+
+- Predicting the exact price is difficult but many parameters impact the price and popularity of the place.
+- Airbnb listing price is mostly determined by the type of house, location, number of bedrooms, and bathrooms.
+- Amenities play a crucial role and are the best variable owner can play with to increase the rental value.
+- People are willing to pay for Airbnb’s nearer to the city center.
 
 
+For detailed result analysis read the below Medium article: <br>
+
+**Medium post :**  https://medium.com/@malhotra.vaibhav0304/this-article-will-make-bostons-airbnb-hosts-rethink-their-investment-strategy-449df1a63830?sk=b87082484f163cc82e8873144c37c363
 
