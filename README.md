@@ -47,7 +47,7 @@ SHAP values show how much each predictor contributes, either positively or negat
 <img src="https://github.com/Vaibhav3M/AirBnB_Analytics/blob/master/Analysis/Visualizations/SHAP.png" height="500"/> 
 <br>
 
-**Conclusion:**
+# Conclusion
 
 - Predicting the exact price is difficult but many parameters impact the price and popularity of the place.
 - Airbnb listing price is mostly determined by the type of house, location, number of bedrooms, and bathrooms.
