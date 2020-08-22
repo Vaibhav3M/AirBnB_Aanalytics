@@ -59,3 +59,9 @@ For detailed result analysis read the below Medium article: <br>
 
 **Medium post :**  https://medium.com/@malhotra.vaibhav0304/this-article-will-make-bostons-airbnb-hosts-rethink-their-investment-strategy-449df1a63830?sk=b87082484f163cc82e8873144c37c363
 
+<a id='License'></a>
+
+## License 
+
+
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/vaibhav3m)
